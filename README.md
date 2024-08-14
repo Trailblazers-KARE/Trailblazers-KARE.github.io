@@ -33,6 +33,7 @@ Each pose comes with detailed instructions and an image to help you visualize an
 
 Ready to start your yoga journey? Follow these steps:
 
-1. **Clone the repository**:
+1. **Go To Our Website**:
    ```bash
-   git clone https://github.com/Trailblazers-KARE/Trailblazers-KARE.github.io.git
+   Trailblazers-KARE.github.io
+   
