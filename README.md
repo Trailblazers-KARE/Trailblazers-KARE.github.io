@@ -35,5 +35,13 @@ Ready to start your yoga journey? Follow these steps:
 
 1. **Go To Our Website**:
    ```bash
-   Trailblazers-KARE.github.io
+   Trailblazers-KARE.github.io\
    
+# Contributors
+Sharankaranam - https://github.com/Sharankaranam
+Anvitha - https://github.com/anvitha2507
+Sai Kishan - https://github.com/kvsnsaikishan
+Dhathri - https://github.com/Dhathri16
+
+
+
